@@ -11,4 +11,4 @@ Class for controller the host computers Nord VPN Client via the command line
 Class that controls the SQL database
 
 ## NASDAQScraper.py:
-Functionality ior each of the scraper workers, scrapes with beautiful soup and organized the data into pandas dataframes 
+Functionality for each of the scraper workers, scrapes with beautiful soup and organized the data into pandas dataframes 
